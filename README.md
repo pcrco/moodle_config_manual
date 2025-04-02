@@ -100,9 +100,12 @@ Fes que un alumne completi totes les tasques evaluables, calificales amb el prof
 ## Personalització
 Canvia el logotip
 
+![59](59.png)
+
 
 ## Seguretat
 
-
+![60](60.png)
+![61](61.png)
 
 He aplicat aquestes opcions a la política de seguretat per garantir que ningú que no formi part del moodle pugui veure els perfils de la resta.
