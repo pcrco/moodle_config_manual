@@ -92,6 +92,17 @@ Fes que un alumne completi totes les tasques evaluables, calificales amb el prof
 ![51](51.png)
 ![52](52.png)
 ![54](54.png)
+![56](56.png)
 ![57](57.png)
 ![58](58.png)
 
+
+## Personalització
+Canvia el logotip
+
+
+## Seguretat
+
+
+
+He aplicat aquestes opcions a la política de seguretat per garantir que ningú que no formi part del moodle pugui veure els perfils de la resta.
