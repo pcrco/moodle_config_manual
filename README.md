@@ -1,0 +1,1 @@
+# moodle_config_manual
