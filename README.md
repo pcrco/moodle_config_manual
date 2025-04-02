@@ -4,4 +4,4 @@ En aquest repositori, s'explicarà com configurar el moodle i utilitzar funcions
 
 ## 1. Instal·lació de Moodle
 
-1. 
+1. Escollir l'idioma, configurar la base de dades i configurar els primers paràmetres de l'instal·lació.
